@@ -1,0 +1,29 @@
+     Importação dos dados
+        Importe a biblioteca pandas.
+        Carregue o dataset "Livraria.csv "no DataFrame df.
+        Exiba as 5 primeiras linhas.
+
+    Visão geral
+        Verifique o número de linhas e colunas do dataset.
+        Liste os tipos de dados de cada coluna.
+        Há valores ausentes? Quais colunas têm NaN?
+
+    Estatísticas descritivas
+        Gere o resumo estatístico (df.describe()).
+        Qual é o preço médio dos livros?
+        Qual é a avaliação média geral?
+
+    Análise por categoria
+        Liste as categorias únicas de livros.
+        Calcule a quantidade total vendida por categoria.
+        Qual categoria teve maior faturamento (preço × quantidade_vendida)?
+        Qual categoria tem a melhor média de avaliação?
+
+    Exploração adicional
+        Crie uma nova coluna chamada faturamento = preco * quantidade_vendida.
+        Encontre o livro mais caro e o mais barato.
+        Exiba os 3 livros mais vendidos.
+        Mostre o gráfico de barras com o faturamento por categoria.
+
+    Reflexão final (curta)
+        Qual insight interessante você conseguiu tirar desses dados?
