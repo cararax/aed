@@ -447,10 +447,12 @@ Antes de entregar, verifique:
 
 | Exercício | Resolução |
 |-----------|-----------|
-| 🧪 Social Network Ads — Classificação | [📄 Resolução comentada](resolucoes/07%20-%20resolucao%20-%20social%20network%20ads.md) |
-| 🛒 E-commerce — Implantação | [📄 Resolução comentada](resolucoes/08%20-%20resolucao%20-%20ecommerce%20implantacao.md) |
+| 🧠 Aula 8 — Conceitos Fundamentais de ML | [📄 Resumo dos slides](resolucoes/12%20-%20resolucao%20-%20aula%208%20machine%20learning%20conceitos.md) |
+| 🧪 Social Network Ads — Classificação | [📄 Resolução comentada](resolucoes/10%20-%20resolucao%20-%20social%20network%20ads.md) |
+| 🛒 E-commerce — Implantação | [📄 Resolução comentada](resolucoes/11%20-%20resolucao%20-%20ecommerce%20implantacao.md) |
 
 ---
 
 > 📎 **Arquivos originais da disciplina**: pasta [`08 - Machine Learning/`](../08%20-%20Machine%20Learning/)
+> 🧑‍🏫 **Resoluções comentadas do professor**: pasta [`resolucoes - professor/`](resolucoes%20-%20professor/)
 > 📚 **Materiais de apoio**: [`00 - Materiais De Apoio/03 - Python Para Todos - Severance.pdf`](../00%20-%20Materiais%20De%20Apoio/03%20-%20Python%20Para%20Todos%20-%20Severance.pdf) (cap. 11-16)

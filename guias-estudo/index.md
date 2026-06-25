@@ -11,7 +11,7 @@
 
 | Guia | Resoluções |
 |------|-----------|
-| [📗 Guia Completo de ML](05%20-%20Guia%20-%20Machine%20Learning.md) | [Social Network Ads](resolucoes/10%20-%20resolucao%20-%20social%20network%20ads.md) · [E-Commerce Implantação](resolucoes/11%20-%20resolucao%20-%20ecommerce%20implantacao.md) |
+| [📗 Guia Completo de ML](05%20-%20Guia%20-%20Machine%20Learning.md) | [Aula 8 — Conceitos](resolucoes/12%20-%20resolucao%20-%20aula%208%20machine%20learning%20conceitos.md) · [Social Network Ads](resolucoes/10%20-%20resolucao%20-%20social%20network%20ads.md) · [E-Commerce Implantação](resolucoes/11%20-%20resolucao%20-%20ecommerce%20implantacao.md) · [🧑‍🏫 Resoluções do Professor](resolucoes%20-%20professor/) |
 
 ### 🐍 Ambientação Python
 
